@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd36fb1d.chunk.css",
+    "main.js": "/static/js/main.de983286.chunk.js",
+    "main.js.map": "/static/js/main.de983286.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2a90d434.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2a90d434.js.map",
+    "static/js/2.6cecd5a1.chunk.js": "/static/js/2.6cecd5a1.chunk.js",
+    "static/js/2.6cecd5a1.chunk.js.map": "/static/js/2.6cecd5a1.chunk.js.map",
+    "static/js/3.dc96498f.chunk.js": "/static/js/3.dc96498f.chunk.js",
+    "static/js/3.dc96498f.chunk.js.map": "/static/js/3.dc96498f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.dd36fb1d.chunk.css.map": "/static/css/main.dd36fb1d.chunk.css.map",
+    "static/js/2.6cecd5a1.chunk.js.LICENSE.txt": "/static/js/2.6cecd5a1.chunk.js.LICENSE.txt",
+    "static/media/door.2f555f76.jpg": "/static/media/door.2f555f76.jpg",
+    "static/media/kouzina1.241439cc.jpg": "/static/media/kouzina1.241439cc.jpg",
+    "static/media/kouzina2.182fe5cf.jpg": "/static/media/kouzina2.182fe5cf.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/ntoulapa.7fd1a880.jpg": "/static/media/ntoulapa.7fd1a880.jpg",
+    "static/media/teixos.2c1303ff.jpg": "/static/media/teixos.2c1303ff.jpg",
+    "static/media/App.css": "/static/media/wall.2db3f83f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a90d434.js",
+    "static/js/2.6cecd5a1.chunk.js",
+    "static/css/main.dd36fb1d.chunk.css",
+    "static/js/main.de983286.chunk.js"
+  ]
+}
